@@ -13,4 +13,4 @@ See
 
 [Aiven terraform provider](https://docs.aiven.io/docs/tools/terraform.html)
 
-There also exists a [simple golang client](/troysellers/go-mongo-test) that reads movies from an IMDB list and attempts to insert or update into the sample movies dataset provided with the free trial Mongo Atlas service
+There also exists a [simple golang client](https://github.com/troysellers/go-mongo-test) that reads movies from an IMDB list and attempts to insert or update into the sample movies dataset provided with the free trial Mongo Atlas service
